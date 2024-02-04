@@ -8,9 +8,8 @@ I'm the founder of the startup EcoCreds, where we're decentralizing the carbon c
 - 🌱 I’m currently learning web3 security.
 - 👯 I’m looking to collaborate on blockchain projects and web3 security initiatives.
 - 💬 Ask me about Solidity, Cocolang, blockchain development, or anything related to web3 security.
-- 📫 How to reach me: [Your Preferred Contact Method]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Your Fun Fact]
+- 📫 How to reach me: ping me on my Linkedin ID
+- ⚡ Fun fact: I am a spiritual person and practices Meditation.
 
 <!--
 **adityakaaltatva/adityaKaaltatva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
