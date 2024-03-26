@@ -4,7 +4,7 @@ I'm the founder of the startup EcoCreds, where we're decentralizing the carbon c
 
 #### About Me
 
-- 🔭 I’m currently working on decentralizing the carbon credit system with EcoCreds.
+- 🔭 I’m currently working on decentralizing the carbon credit system with EcoSwape.
 - 🌱 I’m currently learning web3 security.
 - 👯 I’m looking to collaborate on blockchain projects and web3 security initiatives.
 - 💬 Ask me about Solidity, Cocolang, blockchain development, or anything related to web3 security.
