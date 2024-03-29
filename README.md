@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the founder of the startup EcoCreds, where we're decentralizing the carbon credit system. I'm an expert in Solidity, Cocolang, and core blockchain development. Currently learning web3 security and exploring Layer2 Blockchain. I'm also knowledgeable in MERN stack development and Java, with a focus on DSA (Data Structures and Algorithms).
+I'm the founder of the startup EcoSwape, where we're decentralizing the carbon credit system. I'm an expert in Solidity, Cocolang, and core blockchain development. Currently learning web3 security and exploring Layer2 Blockchain. I'm also knowledgeable in MERN stack development and Java, with a focus on DSA (Data Structures and Algorithms).
 
 #### About Me
 
