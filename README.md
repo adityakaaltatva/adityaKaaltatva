@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Aditya Pandey 👋</h1>
 <p align="center"><em>Blockchain Engineer | AI + DevOps Hacker | Cybersecurity Sentinel</em></p>
 
@@ -14,11 +13,11 @@
 ## 🛠️ Key Projects
 
 ### 🚁 [COGNITOR](https://github.com/adityakaaltatva/COGNITOR-X-Prime-Edition)
-AI-powered cognitive warfare OS for real-time battlefield intelligence. 
+AI-powered cognitive warfare OS for real-time battlefield intelligence.  
 Tech: YOLOv8, WebRTC, zk-SNARKs, LangGraph, Libp2p
 
 ### 🔐 [SentinelVault](https://github.com/adityakaaltatva/SentinelVault) • [Live Demo](https://sentinel-vault.vercel.app)
-AI-secured, decentralized data vault with zk-SNARK encryption.
+AI-secured, decentralized data vault with zk-SNARK encryption.  
 Tech: Solidity, IPFS, LangChain, AWS, gRPC, Docker
 
 ---
@@ -56,7 +55,7 @@ Tech: Solidity, IPFS, LangChain, AWS, gRPC, Docker
 
 ## 👥 Let's Connect
 - 🌐 [Portfolio](https://adityaportfolio.dev)  
-- 👨‍�️ [LinkedIn](https://linkedin.com/in/adityapandey)  
+- 👨‍💻 [LinkedIn](https://linkedin.com/in/adityapandey)  
 - 📧 realaaditya5@gmail.com  
 - 👁️ [GitHub](https://github.com/adityakaaltatva)
 
@@ -64,5 +63,3 @@ Tech: Solidity, IPFS, LangChain, AWS, gRPC, Docker
 <p align="center">
   <i>"Build like a hacker. Think like a systems engineer. Secure like a sentinel."</i>
 </p>
-```
-
